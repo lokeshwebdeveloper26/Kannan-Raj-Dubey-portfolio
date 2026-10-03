@@ -25,7 +25,7 @@ import type { ModelData } from "./types"
  *   never directly to the model.
  */
 export const modelData: ModelData = {
-  name: "Model Name",
+  name: "Kannan Raj Dubey",
   title: "Junior Fashion & Commercial Model",
   profileImage: "/portfolio/profile.JPG",
   heroImage: "/portfolio/hero.JPG",
@@ -33,31 +33,31 @@ export const modelData: ModelData = {
   intro:
     "A young and talented junior model with a passion for fashion, commercial shoots and creative campaigns.",
 
-  bio: "Model name  is a confident young talent with a natural presence and an interest in fashion, commercial and lifestyle shoots. Available for professional projects through agency management.",
+  bio: "Kannan Raj is a confident young talent with a natural presence and an interest in fashion, commercial and lifestyle shoots. Available for professional projects through agency management.",
 
   availability: "Available for professional bookings — enquire via the agency",
 
   // Optional fields left blank are automatically hidden.
   details: {
-    age: "" ,
-    dateOfBirth: "",
-    height: "",
-    weight: "",
-    Bust: "",
-    skinTone: "",
-    hairColor: "",
-    eyeColor: "",
-    ShoeSize: "",
+    age: "15 years" ,
+    dateOfBirth: "27 Sep 2011",
+    height: "5.9 ft",
+    weight: "55 kg",
+    Bust: "32",
+    skinTone: "Ivory",
+    hairColor: "Brown",
+    eyeColor: "Brown",
+    ShoeSize: "9 (In)",
     Hips: "",
-    Waist: "",
+    Waist: "29",
     location: "Jabalpur, MP, India",
   },
 
   // Parent/guardian names are optional and often kept private.
   // Leave blank to hide them entirely.
   parents: {
-    fatherName: "",
-    motherName: "",
+    fatherName: "Mr. Sonjog Dubey",
+    motherName: "Tarang Dubey",
   },
 
   // Instagram handle WITHOUT the @ (managed by parents/agency).
@@ -79,168 +79,168 @@ export const modelData: ModelData = {
   gallery: [
      {
       src: "/portfolio/gallery-1.JPG",
-      alt: "Model Name fashion portfolio",
+      alt: "Kannan Raj Dubeyfashion portfolio",
       category: "Fashion",
       featured: true,
     },
     {
       src: "/portfolio/gallery-2.JPG",
-      alt: "model name fashion portrait",
+      alt: "Kannan Raj Dubeyfashion portrait",
       category: "Fashion",
     },
-    {
+    /**{
       src: "/portfolio/gallery-3.JPG",
-      alt: "model name studio portrait",
+      alt: "Kannan Raj Dubeystudio portrait",
       category: "Studio",
     },
     {
       src: "/portfolio/gallery-4.JPG",
-      alt: "model name outdoor portrait",
+      alt: "Kannan Raj Dubeyoutdoor portrait",
       category: "Outdoor",
       featured: true,
     },
     {
       src: "/portfolio/gallery-5.JPG",
-      alt: "model name commercial portfolio",
+      alt: "Kannan Raj Dubeycommercial portfolio",
       category: "Commercial",
     },
     {
       src: "/portfolio/gallery-6.JPG",
-      alt: "model name lifestyle portrait",
+      alt: "Kannan Raj Dubeylifestyle portrait",
       category: "Casual",
     },
     {
       src: "/portfolio/gallery-7.JPG",
-      alt: "model name fashion look",
+      alt: "Kannan Raj Dubeyfashion look",
       category: "Fashion",
     },
     {
       src: "/portfolio/gallery-8.JPG",
-      alt: "model name campaign portrait",
+      alt: "Kannan Raj Dubeycampaign portrait",
       category: "Campaign",
     },
     {
       src: "/portfolio/gallery-9.JPG",
-      alt: "model name editorial portrait",
+      alt: "Kannan Raj Dubeyeditorial portrait",
       category: "Fashion",
-    },
+    },**/
     {
       src: "/portfolio/hero.JPG",
-      alt: "model name hero portrait",
+      alt: "Kannan Raj Dubeyhero portrait",
       category: "Fashion",
     },
     {
       src: "/portfolio/profile.JPG",
-      alt: "model name profile portrait",
+      alt: "Kannan Raj Dubeyprofile portrait",
       category: "Commercial",
     },
-    {
+    /**{
       src: "/portfolio/gallery-10.JPG",
-      alt: "model name commercial portfolio",
+      alt: "Kannan Raj Dubeycommercial portfolio",
       category: "Commercial",
     },
     {
       src: "/portfolio/gallery-11.JPG",
-      alt: "model name lifestyle portrait",
+      alt: "Kannan Raj Dubeylifestyle portrait",
       category: "Casual",
     },
     {
       src: "/portfolio/gallery-12.JPG",
-      alt: "model name fashion look",
+      alt: "Kannan Raj Dubeyfashion look",
       category: "Fashion",
     },
     {
       src: "/portfolio/gallery-13.JPG",
-      alt: "model name fashion look",
+      alt: "Kannan Raj Dubeyfashion look",
       category: "Fashion",
     },
     {
       src: "/portfolio/gallery-14.JPG",
-      alt: "model name campaign portrait",
+      alt: "Kannan Raj Dubeycampaign portrait",
       category: "Campaign",
     },
     {
       src: "/portfolio/gallery-15.JPG",
-      alt: "model name editorial portrait",
+      alt: "Kannan Raj Dubeyeditorial portrait",
       category: "Fashion",
     },
     {
       src: "/portfolio/gallery-16.JPG",
-      alt: "model name commercial portfolio",
+      alt: "Kannan Raj Dubeycommercial portfolio",
       category: "Commercial",
     },
     {
       src: "/portfolio/gallery-17.JPG",
-      alt: "model name lifestyle portrait",
+      alt: "Kannan Raj Dubeylifestyle portrait",
       category: "Casual",
     },
     {
       src: "/portfolio/gallery-18.JPG",
-      alt: "model name fashion look",
+      alt: "Kannan Raj Dubeyfashion look",
       category: "Fashion",
     },
     {
       src: "/portfolio/gallery-19.JPG",
-      alt: "model name fashion look",
+      alt: "Kannan Raj Dubeyfashion look",
       category: "Fashion",
     },
     {
       src: "/portfolio/gallery-20.JPG",
-      alt: "model name fashion look",
+      alt: "Kannan Raj Dubeyfashion look",
       category: "Fashion",
     },
     {
       src: "/portfolio/gallery-21.JPG",
-      alt: "model name fashion look",
+      alt: "Kannan Raj Dubeyfashion look",
       category: "Fashion",
     },
     {
       src: "/portfolio/gallery-22.JPG",
-      alt: "model name fashion look",
+      alt: "Kannan Raj Dubeyfashion look",
       category: "Fashion",
     },
     {
       src: "/portfolio/gallery-23.JPG",
-      alt: "model name fashion look",
+      alt: "Kannan Raj Dubeyfashion look",
       category: "Fashion",
     },
     {
       src: "/portfolio/gallery-24.JPG",
-      alt: "model name fashion look",
+      alt: "Kannan Raj Dubeyfashion look",
       category: "Fashion",
     },
     {
       src: "/portfolio/gallery-25.JPG",
-      alt: "model name fashion portfolio",
+      alt: "Kannan Raj Dubeyfashion portfolio",
       category: "Fashion",
       featured: true,
     },
     {
       src: "/portfolio/gallery-26.JPG",
-      alt: "model name fashion portrait",
+      alt: "Kannan Raj Dubeyfashion portrait",
       category: "Fashion",
     },
     {
       src: "/portfolio/gallery-27.JPG",
-      alt: "model name studio portrait",
+      alt: "Kannan Raj Dubeystudio portrait",
       category: "Studio",
     },
     {
       src: "/portfolio/gallery-28.JPG",
-      alt: "model name outdoor portrait",
+      alt: "Kannan Raj Dubeyoutdoor portrait",
       category: "Outdoor",
       featured: true,
     },
     {
       src: "/portfolio/gallery-29.JPG",
-      alt: "model name commercial portfolio",
+      alt: "Kannan Raj Dubeycommercial portfolio",
       category: "Commercial",
     },
     {
       src: "/portfolio/gallery-30.JPG",
-      alt: "model name lifestyle portrait",
+      alt: "Kannan Raj Dubeylifestyle portrait",
       category: "Casual",
-    },
+    },**/
     
   ],
 
@@ -251,20 +251,20 @@ export const modelData: ModelData = {
    * Videos never autoplay with sound.
    */
   videos: [
-  /**{
-    title: "model name Model Shoot",
-    category: "Fashion",
+  {
+    title: "Kannan Raj Dubey Model Shoot",
+    category: "LIVE ADVERTISEMENT RECORDING FOOTAGE",
     thumbnail: "/portfolio/profile.JPG",
-    src: "/portfolio/videos/Video-name.mp4",
+    src: "/portfolio/videos/KANNAN RAJ (1).mp4",
     type: "mp4",
   },
   {
-    title: "model name Model Shoot",
-    category: "Fashion",
+    title: "Kannan Raj Dubey Model Shoot",
+    category: "RAW Video FOOTAGE",
     thumbnail: "/portfolio/profile.JPG",
-    src: "/portfolio/videos/Video-name-compressed.mp4",
+    src: "/portfolio/videos/KANNAN RAJ.mp4",
     type: "mp4",
-  },*/
+  },
 ],
 
    
